@@ -1,6 +1,6 @@
 {
   "name": "dsh-wbtree",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sidebar workspace dropdown + fork-lineage session tree with compact guide lines and per-session rename/fork/archive menu.",
   "license": "MIT",
   "type": "module",
